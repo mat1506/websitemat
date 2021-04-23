@@ -1,52 +1,56 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests center on climate, and environmental reconstructions in the past, particularly in biogeochemistry problems
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Geology
+    institution: Universidad de ZARAGOZA
+    year: 2016
+  - course: Master in Global Changes
+    institution: Menéndez Pelayo International University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Professional degree in Natural Resources and Environment
+    institution: Pontificia Universidad Católica de Chile
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Biology
+    institution: Pontificia Universidad Católica de Chile
     year: 2008
-email: ""
+email: "matutefrugone@gmail.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Palaeoenvironmental
+- Statistical programming
+- Open science and reproducible research
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Pontificia Universidad Católica de Chile
+  url: https://www.uc.cl/
+role: Postdoctoral researcher
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=es&user=lrVyfCoAAAAJ
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-4182-9902
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Matias-Frugone-Alvarez    
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mat1506
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Matías Frugone-Álvarez
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Matías Frugone-Álvarez is a postdoctoral researcher of palaeoenvironmental at the Pontificia Universidad Católica de Chile. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
