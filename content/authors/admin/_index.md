@@ -4,9 +4,9 @@ bio: My research interests center on climate, and environmental reconstructions 
 education:
   courses:
   - course: PhD in Geology
-    institution: Universidad de ZARAGOZA
+    institution: Universidad de Zaragoza
     year: 2016
-  - course: Master in Global Changes
+  - course: MSc in Global Change
     institution: Menéndez Pelayo International University
     year: 2012
   - course: Professional degree in Natural Resources and Environment
@@ -18,7 +18,7 @@ education:
 email: "matutefrugone@gmail.com"
 highlight_name: false
 interests:
-- Palaeoenvironmental
+- Paleoenvironments
 - Statistical programming
 - Open science and reproducible research
 organizations:
@@ -50,7 +50,7 @@ superuser: true
 title: Matías Frugone-Álvarez
 ---
 
-Matías Frugone-Álvarez is a postdoctoral researcher of palaeoenvironmental at the Pontificia Universidad Católica de Chile. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Matías Frugone-Álvarez is a postdoctoral researcher of palaeoenvironmental at the Pontificia Universidad Católica de Chile. His research interests include anthropogenic environmental changes, palaeoecology and open-source programming languages. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

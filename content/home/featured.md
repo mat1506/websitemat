@@ -4,13 +4,13 @@
 widget: featured
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 80
 
 title: Featured Publications
-subtitle: ""
+subtitle: "mama mia"
 
 content:
   # Page type to display. E.g. post, talk, publication...
